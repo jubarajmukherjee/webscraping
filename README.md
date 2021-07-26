@@ -5,7 +5,7 @@ A basic terminal run code which gets data (Name, Price, Rating) of Laptops from 
 
 
 What I learnt from it?
->Beautiful Soup is a powerful library used to scrape data easily
+>Beautiful Soup is a powerful library used to scrape data easily,
 >Pandas module helps to organise the data
 
 
