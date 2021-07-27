@@ -1,7 +1,7 @@
 # Webscraper Flipkart
 
 Overview:
-A basic terminal run code which gets data (Name, Price, Rating) of Laptops from Flipkart website.
+>A basic terminal run code which gets data (Name, Price, Rating) of Laptops from Flipkart website.
 
 
 What I learnt from it?
@@ -10,9 +10,9 @@ What I learnt from it?
 
 
 Features:
-Just change the url in the code to the desired url on the Flipkart website to get the data of the desired items.
+>Just change the url in the code to the desired url on the Flipkart website to get the data of the desired items.
  
-
+Kindly run "pip install bs4/Pandas" in your terminal to install the required packages if they don't exist.
 
 Reach me 
 email> jubarajmukherjee@protonmai.com/mailtojubaraj@gmail.com
