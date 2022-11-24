@@ -15,6 +15,6 @@ Features:
 Kindly run "pip install bs4/Pandas" in your terminal to install the required packages if they don't exist.
 
 Reach me 
-email> jubarajmukherjee@protonmai.com/mailtojubaraj@gmail.com
+email> jubarajmukherjee@protonmail.com/mailtojubaraj@gmail.com
 linkedin>https://www.linkedin.com/in/jubarajmukherjee/
 twitter>@jubarajmukherje
